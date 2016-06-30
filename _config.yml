@@ -1,4 +1,4 @@
-name: recievepresence
+name: receive presence
 favicon: null
 layout_spectrum: 0.6922722582239658
 typography_spectrum: 0.5566485172603279
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.4209258588962257
-  lightness: 0.22709443769417703
-  saturation: 0.3916213889606297
+    - '#ffffff'
+    - '#8a8a8a'
+    - '#008ff5'
+    - '#ababab'
+    - '#224f70'
+  brandStrength: 1
+  lightness: 0.9375
+  saturation: 1
   rhythmicContrast: 0.9137579675298184
 purpose: []
