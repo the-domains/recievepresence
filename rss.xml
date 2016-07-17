@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Receive Presence]]></title>
+        <description><![CDATA[Receive Presence]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jul 2016 01:06:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHAT ARE YOUR CUSTOMERS SAYING ABOUT YOUR BUSINESS?]]></title>
+            <description><![CDATA[<article><h1>WHAT ARE YOUR CUSTOMERS SAYING ABOUT YOUR BUSINESS?</h1><p>Receive Presence logo</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6cefb45d8ed038cea327e38fddd7057d/croprotate.jpg?cropheight=373&cropwidth=1370&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F52416ee0-755f-4efc-87cb-807a2b3b2a95.jpg&x=22&y=38"></article>]]></description>
+            <link>undefinedwhat-are-your-customers-saying-about-your-business/index.html</link>
+            <guid isPermaLink="false">6a351bca-b02c-4778-9dd6-3f8e93d4f2cb</guid>
+            <pubDate>Sun, 17 Jul 2016 01:06:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
